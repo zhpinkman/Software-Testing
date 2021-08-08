@@ -1,0 +1,18 @@
+[submodule "Software-Testing-CA1"]
+	path = Software-Testing-CA1
+	url = https://github.com/zhpinkman/Software-Testing-CA1
+[submodule "Software-Testing-CA2"]
+	path = Software-Testing-CA2
+	url = https://github.com/zhpinkman/Software-Testing-CA2
+[submodule "Software-Testing-CA3"]
+	path = Software-Testing-CA3
+	url = https://github.com/zhpinkman/Software-Testing-CA3
+[submodule "Software-Testing-CA4"]
+	path = Software-Testing-CA4
+	url = https://github.com/zhpinkman/Software-Testing-CA4
+[submodule "Software-Testing-CA5"]
+	path = Software-Testing-CA5
+	url = https://github.com/zhpinkman/Software-Testing-CA5
+[submodule "Software-Testing-CA6"]
+	path = Software-Testing-CA6
+	url = https://github.com/zhpinkman/Software-Testing-CA6
